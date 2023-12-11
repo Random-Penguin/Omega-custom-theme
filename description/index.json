@@ -2,59 +2,59 @@
     "name": "Index",
     "icons": "index",
     "colors": {
-        "PrimaryText": "#64FDDA",
-        "SecondaryText": "#CBD5F5",
-        "AccentText": "#FD6487",
-        "ApproximateSignText": "#000000",
-        "ApproximateExpressionText": "#000000",
+        "PrimaryText": "64FDDA",
+        "SecondaryText": "CBD5F5",
+        "AccentText": "FD6487",
+        "ApproximateSignText": "000000",
+        "ApproximateExpressionText": "000000",
         "Background": {
-            "Hard": "#0A192F",
-            "Apps": "#050C18",
-            "AppsSecondary": "#000000"
+            "Hard": "0A192F",
+            "Apps": "050C18",
+            "AppsSecondary": "000000"
         },
         "Toolbar": {
-            "": "#2B55B6",
-            "Text": "#FFFFFF"
+            "": "2B55B6",
+            "Text": "D0D0D0"
         },
         "ExpressionInput": {
-            "Background": "Couleur de la barre d'entrée dans les applications (Calcul, Graph)... et Couleur du résultat sélectionné dans app Calcul",
-            "Border": "Couleur de la ligne entre la barre d'entrée et le reste"
+            "Background": "2B55B6",
+            "Border": "2B55B6"
         },
         "Grid": {
-            "PrimaryLine": "Couleurs des lignes importantes dans graphes",
-            "SecondaryLine": "Couleurs des lignes mineures dans graphes"
+            "PrimaryLine": "FFFFFF",
+            "SecondaryLine": "000000"
         },
         "Battery": {
-            "": "Couleur de l'icone de la batterie",
-            "InCharge": "Couleur de la charge",
-            "Low": "Couleur de la batterie faible"
+            "": "000000",
+            "InCharge": "00FF00",
+            "Low": "FF0000"
         },
         "ScrollBar": {
-            "Foreground": "Couleur de la scrollbar active",
-            "Background": "Couleur de la scrollbar incative"
+            "Foreground": "D0D0D0",
+            "Background": "000000"
         },
         "Control": {
-            "": "Couleurs des flèches dans les paramètres + Couleur des ronds des sliders",
-            "Enabled": "Paramètre activé / Partie du slider activée",
-            "Disabled": "Paramètre désactivé / Partie du slider désactivée"
+            "": "FD6487",
+            "Enabled": "FD6487",
+            "Disabled": "505050"
         },
         "Calculation": {
-            "BackgroundOdd": "Couleur des résultats des calculs impairs",
-            "BackgroundEven": "Couleur des résultats des calculs pairs",
-            "EmptyBox": "Couleur de la zone de rentrée potentielle de chiffres",
-            "EmptyBoxNeeded": "Couleur des chiffres manquants dans une matrice",
-            "TrigoAndComplexForeground": "Couleurs des informations dans un graphique complexe ou trigonométrique"
+            "BackgroundOdd": "0A192F",
+            "BackgroundEven": "050C18",
+            "EmptyBox": "505050",
+            "EmptyBoxNeeded": "FD6487",
+            "TrigoAndComplexForeground": "0A192F"
         },
         "Code": {
-            "Background": "Couleur de fond code python",
-            "BackgroundSelected": "Couleur de fond du texte sélectionné python",
-            "Text": "Texte classique dans python",
-            "Comment": "Couleur des commentaire dans python",
-            "Number": "Couleur des nombre dans python",
-            "Keyword": "Couleurs des keyword des fonctions de base (ex : def, for, in, from, import...)",
-            "Operator": "Couleurs des comparateurs ou opérations (>, =, !=, *, /...)",
-            "String": "String de texte, plus guillemets",
-            "GutterViewBackground": "Couleur de fond de la bande de numérotation des lignes à gauche"
+            "Background": "0A192F",
+            "BackgroundSelected": "050C18",
+            "Text": "D0D0D0",
+            "Comment": "808080",
+            "Number": "FD6487",
+            "Keyword": "64FDDA",
+            "Operator": "009970",
+            "String": "997000",
+            "GutterViewBackground": "202020"
         },
         "Probability": {
             "Curve": "Couleur d'un courbe de proba",
