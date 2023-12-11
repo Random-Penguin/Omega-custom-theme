@@ -2,38 +2,19 @@
     "name": "Index",
     "icons": "index",
     "colors": {
-        "PrimaryText": "Texte Principal",
-        "SecondaryText": "Texte Secondaire dans l'app Paramètres, Nom des colonnes et trait fin au dessus de l'écran dans les apps Stats et Regression,
-                            Contour des boutons larges majeurs, Approximation d'un résultat dans l'app Calcul",
-        "AccentText": "Lien du site de téléchargement sur l'écran usb",
-        "ApproximateSignText": "???",
-        "ApproximateExpressionText": "???",
+        "PrimaryText": "#64FDDA",
+        "SecondaryText": "#CBD5F5",
+        "AccentText": "#FD6487",
+        "ApproximateSignText": "#000000",
+        "ApproximateExpressionText": "#000000",
         "Background": {
-            "Hard": "Couleur de fond dans le splash usb
-                    Dans l'app Graph : Couleur du fond + définitons des fonctions aux n° impairs, Dans la fenêtre 'Valeurs', couleur des lignes paires
-                    Dans Python : Fichiers python impairs
-                    Dans Stats et Regression : Couleur des intitulés des colonnes, trait en dessous en dessous des noms de fenêtres, couleur ds lignes paires
-                    Dans Equations : Lignes avec expression, Couleur de fond de l'accolade + Résultats des équations n° impairs, 
-                    Dans Calcul : Zone '...' dans un calcul avec un n°impair
-                    Dans RPN : Couleur de fond d'un nombre n° pair
-                    Plus : Texte des alertes mémoire, Couleur de fond des chiffres significatifs dans les Paramètres, 
-                    Dans Probas : Couleur de fond de la ligne avec les paramètres et les résultats
-                    Paramètres : Date et heure quand non selectionnées pour la 1ere fois (bizarre)",
-
-            "Apps": "Calcul : Couleur du fond et des zones '...'' quand n° de calcul pair
-                    Rpn : Couleur du fond + lignes impaires
-                    Graph/Suites : Couleur de fond des fonctions avec numéro pair
-                    Python : Couleur de fond des programmes pairs, 
-                    Stats/Regression : Lignes impaires des tableaux, 
-                    Proba : Couleur de fond des menus 
-                    Equation : Couleur de fond et couleur de fond des résultats n° pair
-                    Plus : Fond des fenêtre 'Aucune grandeur à calculer' Couleur de fond des paramètres",
-
-            "AppsSecondary": "???"
+            "Hard": "#0A192F",
+            "Apps": "#050C18",
+            "AppsSecondary": "#000000"
         },
         "Toolbar": {
-            "": "Couleur de fond de la barre en haut de l'écran",
-            "Text": "Couleur du texte de la barre en haut, sauf la batterie"
+            "": "#2B55B6",
+            "Text": "#FFFFFF"
         },
         "ExpressionInput": {
             "Background": "Couleur de la barre d'entrée dans les applications (Calcul, Graph)... et Couleur du résultat sélectionné dans app Calcul",
