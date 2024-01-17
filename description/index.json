@@ -2,27 +2,29 @@
     "name": "Index",
     "icons": "index",
     "colors": {
-        "PrimaryText": "64FDDA",
-        "SecondaryText": "CBD5F5",
-        "AccentText": "FD6487",
-        "ApproximateSignText": "000000",
-        "ApproximateExpressionText": "000000",
+        "PrimaryText": "FFFFFF",
+        "SecondaryText": "999999",
+        "AccentText": "999999",
+        "ApproximateSignText": "999999",
+        "ApproximateExpressionText": "999999",
         "Background": {
-            "Hard": "0A192F",
-            "Apps": "050C18",
-            "AppsSecondary": "000000"
+            "Hard": "333333",
+
+            "Apps": "222222",
+
+            "AppsSecondary": "222222"
         },
         "Toolbar": {
-            "": "2B55B6",
-            "Text": "D0D0D0"
+            "": "666666",
+            "Text": "FFFFFF"
         },
         "ExpressionInput": {
-            "Background": "2B55B6",
-            "Border": "2B55B6"
+            "Background": "2A2A2A",
+            "Border": "111111"
         },
         "Grid": {
             "PrimaryLine": "FFFFFF",
-            "SecondaryLine": "000000"
+            "SecondaryLine": "999999"
         },
         "Battery": {
             "": "000000",
@@ -30,31 +32,31 @@
             "Low": "FF0000"
         },
         "ScrollBar": {
-            "Foreground": "D0D0D0",
-            "Background": "000000"
+            "Foreground": "999999",
+            "Background": "333333"
         },
         "Control": {
-            "": "FD6487",
-            "Enabled": "FD6487",
-            "Disabled": "505050"
+            "": "999999",
+            "Enabled": "999999",
+            "Disabled": "2A2A2A"
         },
         "Calculation": {
-            "BackgroundOdd": "0A192F",
-            "BackgroundEven": "050C18",
-            "EmptyBox": "505050",
-            "EmptyBoxNeeded": "FD6487",
-            "TrigoAndComplexForeground": "0A192F"
+            "BackgroundOdd": "Couleur des résultats des calculs impairs",
+            "BackgroundEven": "Couleur des résultats des calculs pairs",
+            "EmptyBox": "Couleur de la zone de rentrée potentielle de chiffres",
+            "EmptyBoxNeeded": "Couleur des chiffres manquants dans une matrice",
+            "TrigoAndComplexForeground": "Couleurs des informations dans un graphique complexe ou trigonométrique"
         },
         "Code": {
-            "Background": "0A192F",
-            "BackgroundSelected": "050C18",
-            "Text": "D0D0D0",
-            "Comment": "808080",
-            "Number": "FD6487",
-            "Keyword": "64FDDA",
-            "Operator": "009970",
-            "String": "997000",
-            "GutterViewBackground": "202020"
+            "Background": "Couleur de fond code python",
+            "BackgroundSelected": "Couleur de fond du texte sélectionné python",
+            "Text": "Texte classique dans python",
+            "Comment": "Couleur des commentaire dans python",
+            "Number": "Couleur des nombre dans python",
+            "Keyword": "Couleurs des keyword des fonctions de base (ex : def, for, in, from, import...)",
+            "Operator": "Couleurs des comparateurs ou opérations (>, =, !=, *, /...)",
+            "String": "String de texte, plus guillemets",
+            "GutterViewBackground": "Couleur de fond de la bande de numérotation des lignes à gauche"
         },
         "Probability": {
             "Curve": "Couleur d'un courbe de proba",
