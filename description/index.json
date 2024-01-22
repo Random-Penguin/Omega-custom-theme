@@ -41,11 +41,11 @@
             "Disabled": "2A2A2A"
         },
         "Calculation": {
-            "BackgroundOdd": "Couleur des résultats des calculs impairs",
-            "BackgroundEven": "Couleur des résultats des calculs pairs",
-            "EmptyBox": "Couleur de la zone de rentrée potentielle de chiffres",
-            "EmptyBoxNeeded": "Couleur des chiffres manquants dans une matrice",
-            "TrigoAndComplexForeground": "Couleurs des informations dans un graphique complexe ou trigonométrique"
+            "BackgroundOdd": "333333",
+            "BackgroundEven": "222222",
+            "EmptyBox": "2A2A2A",
+            "EmptyBoxNeeded": "999999",
+            "TrigoAndComplexForeground": "999999"
         },
         "Code": {
             "Background": "Couleur de fond code python",
@@ -123,28 +123,28 @@
             "SecondText": "Couleur du texte dans la bannière secondaire"
         },
         "Home": {
-            "Background": "Couleur du fond du menu principal",
-            "CellBackground": "Couleur de fond du nom d'une app non choisie",
-            "CellBackgroundActive": "Couleur du fond du nom d'une app choisie",
-            "CellText": "Couleur du texte du nom d'une app non choisie",
-            "CellTextActive": "Couleur du texte du nom d'une app choisie",
-            "CellTextExternal": "Couleur du texte du nom d'une app external non choisie (Ex : nofrendo)",
-            "CellTextExternalActive": "Couleur du texte du nom d'une app external choisie (Ex : nofrendo)"
+            "Background": "333333",
+            "CellBackground": "333333",
+            "CellBackgroundActive": "555555",
+            "CellText": "FFFFFF",
+            "CellTextActive": "FFFFFF",
+            "CellTextExternal": "FFFFFF",
+            "CellTextExternalActive": "FFFFFF"
         },
         "Atom": {
-            "Unknown": "Tous les élements ont une classe, la couleur de chacune est modifiable ici.",
-            "Text": "Couleur du texte dans le tableau périodique",
-            "AlkaliMetal": "Cf Unknown",
-            "AlkaliEarthMetal": "Cf Unknown",
-            "Lanthanide": "Cf Unknown",
-            "Actinide": "Cf Unknown",
-            "TransitionMetal": "Cf Unknown",
-            "PostTransitionMetal": "Cf Unknown",
-            "Metalloid": "Cf Unknown",
-            "Halogen": "Cf Unknown",
-            "ReactiveNonmetal": "Cf Unknown",
-            "NobleGas": "Cf Unknown",
-            "TableLines": "Couleur des lignes du tableau périodique"
+            "Unknown": "777777",
+            "Text": "FFFFFF",
+            "AlkaliMetal": "740244",
+            "AlkaliEarthMetal": "012D4A",
+            "Lanthanide": "825A2C",
+            "Actinide": "692202",
+            "TransitionMetal": "A20025",
+            "PostTransitionMetal": "614F97",
+            "Metalloid": "E04500",
+            "Halogen": "1178AA",
+            "ReactiveNonmetal": "093409",
+            "NobleGas": "3D6D0C",
+            "TableLines": "FFFFFF"
         }
     }
 }
