@@ -48,15 +48,15 @@
             "TrigoAndComplexForeground": "999999"
         },
         "Code": {
-            "Background": "Couleur de fond code python",
-            "BackgroundSelected": "Couleur de fond du texte sélectionné python",
-            "Text": "Texte classique dans python",
-            "Comment": "Couleur des commentaire dans python",
-            "Number": "Couleur des nombre dans python",
-            "Keyword": "Couleurs des keyword des fonctions de base (ex : def, for, in, from, import...)",
-            "Operator": "Couleurs des comparateurs ou opérations (>, =, !=, *, /...)",
-            "String": "String de texte, plus guillemets",
-            "GutterViewBackground": "Couleur de fond de la bande de numérotation des lignes à gauche"
+            "Background": "333333",
+            "BackgroundSelected": "555555",
+            "Text": "FFFFFF",
+            "Comment": "999999",
+            "Number": "22FFFF",
+            "Keyword": "FF2222",
+            "Operator": "FFFF22",
+            "String": "22FF22",
+            "GutterViewBackground": "222222"
         },
         "Probability": {
             "Curve": "Couleur d'un courbe de proba",
