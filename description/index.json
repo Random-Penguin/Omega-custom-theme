@@ -59,68 +59,68 @@
             "GutterViewBackground": "222222"
         },
         "Probability": {
-            "Curve": "Couleur d'un courbe de proba",
-            "CellBorder": "Couleur de la cellule d'entrée dans le menu proba",
-            "HistogramBar": "Couleur des barres des histogrammes des probas"
+            "Curve": "999999",
+            "CellBorder": "555555",
+            "HistogramBar": "999999"
         },
         "Statistics": {
-            "Box": "Couleur du quartile choisi",
-            "BoxVerticalLine": "Couleur du quartile non choisi",
-            "Selected": "Couleur des histogrammes stats choisis",
-            "NotSelected": "Couleur des histogrammes stats non choisis"
+            "Box": "999999",
+            "BoxVerticalLine": "777777",
+            "Selected": "999999",
+            "NotSelected": "777777"
         },
         "Graph": {
-            "Tangent": "Couleur de la tangente d'une fonction graph (Index modifiables des couleur des fonctions dans les makefile)"
+            "Tangent": "FFFFFF"
         },
         "SubMenu": {
-            "Background": "Couleur nom sous-menu en dessous du graphique",
-            "Border": "Couleur au dessus et en dessous su submenu",
-            "Text": "Couleur du texte du sous-menu (Menu 'Ok' dans graph)"
+            "Background": "333333",
+            "Border": "111111",
+            "Text": "FFFFFF"
         },
         "Toolbox": {
-            "HeaderBackground": "Couleur de fond de la zone avec 'Boite à outils' ",
-            "HeaderText": "Couleur du texte dans la 'Boite à outils'",
-            "HeaderBorder": "Couleur de la limite de la zone avec 'Boite à outils' ",
-            "Background": "???"
+            "HeaderBackground": "333333",
+            "HeaderText": "FFFFFF",
+            "HeaderBorder": "111111",
+            "Background": "333333"
         },
         "List": {
-            "CellBackground": "Couleur de fond d'une zone de texte (ex : pop-up usb), Couleur de fond d'une cellule de choix (ex : choix du pays)",
-            "CellBackgroundSelected": "Couleur de fond de l'option choisie (cell, cf pays)",
-            "CellBorder": "Couleur de la limite de la cellule (cf pays)"
+            "CellBackground": "333333",
+            "CellBackgroundSelected": "555555",
+            "CellBorder": "111111"
         },
         "Button": {
-            "Background": "Couleur du bouton non choisi",
-            "BackgroundSelected": "Couleur du bouton choisi",
-            "BackgroundSelectedHighContrast": "???",
-            "Border": "???",
-            "RowBorder": "Couleur du pourtour du bouton, et de la limite entre le bouton et le reste (ex: dans graph, la ligne entre les boutons et la zone des fonctions",
-            "BorderOut": "Couleur de fond de la zone des boutons",
-            "Shadow": "Couleur de l'ombre du bouton, à gauche et en bas de celui ci",
-            "Text": "Couleur du texte dans le bouton"
+            "Background": "333333",
+            "BackgroundSelected": "555555",
+            "BackgroundSelectedHighContrast": "555555",
+            "Border": "111111",
+            "RowBorder": "111111",
+            "BorderOut": "222222",
+            "Shadow": "222222",
+            "Text": "FFFFFF"
         },
         "Tab": {
-            "Background": "Couleur de fond d'un onglet non actif ni séléctionné",
-            "BackgroundSelected": "Couleur de fond d'un onglet sélectionné mais non actif",
-            "BackgroundActive": "Couleur de fond d'un onglet sélectionné mais non actif",
-            "BackgroundSelectedAndActive": "Couleur de fond d'un onglet sélectionné et actif",
-            "Text": "Couleur du texte dans les onglets non active (même si sélectionnés) ",
-            "TextActive": "Couleur du texte dans les onglets actifs"
+            "Background": "222222",
+            "BackgroundSelected": "333333",
+            "BackgroundActive": "555555",
+            "BackgroundSelectedAndActive": "777777",
+            "Text": "FFFFFF",
+            "TextActive": "FFFFFF"
         },
         "SubTab": {
-            "Background": "???",
-            "BackgroundSelected": "???",
-            "Text": "???"
+            "Background": "333333",
+            "BackgroundSelected": "555555",
+            "Text": "FFFFFF"
         },
         "Banner": {
-            "FirstBackground": "Couleur de fond de la bannière (ex : dans proba, nom de la loi choisie en haut de l'écran)",
-            "FirstBorder": "Bordure de 1 pixel séparant la bannière du reste (surement fix par nw, à voir)",
-            "FirstText": "Couleur du texte dans la bannière",
-            "FirstVariantBackground": "Couleur de la limite d'une bannière secondaire (ex : dans proba, après avoir choisi les paramètres)",
-            "FirstVariantBorder": "???",
-            "FirstVariantText": "???",
-            "SecondBackground": "Couleur de fond de la bannière secondaire",
-            "SecondBorder": "???",
-            "SecondText": "Couleur du texte dans la bannière secondaire"
+            "FirstBackground": "222222",
+            "FirstBorder": "222222",
+            "FirstText": "FFFFFF",
+            "FirstVariantBackground": "333333",
+            "FirstVariantBorder": "333333",
+            "FirstVariantText": "FFFFFF",
+            "SecondBackground": "333333",
+            "SecondBorder": "333333",
+            "SecondText": "FFFFFF"
         },
         "Home": {
             "Background": "333333",
